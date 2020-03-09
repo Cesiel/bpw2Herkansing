@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: 08d447c975676d5449af0b8a63906a61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4083528967343321812
+    second: T2_Anim_Klaar_Klein_0
+  - first:
+      213: 2455466597023607523
+    second: T2_Anim_Klaar_Klein_1
+  - first:
+      213: -69636315999962208
+    second: T2_Anim_Klaar_Klein_2
+  - first:
+      213: -9096404764706989774
+    second: T2_Anim_Klaar_Klein_3
+  - first:
+      213: -5594225747376794708
+    second: T2_Anim_Klaar_Klein_4
+  - first:
+      213: -7559492275228078916
+    second: T2_Anim_Klaar_Klein_5
+  - first:
+      213: -5640960730880852086
+    second: T2_Anim_Klaar_Klein_6
+  - first:
+      213: -4234636923191781561
+    second: T2_Anim_Klaar_Klein_7
+  - first:
+      213: 5175831392841312949
+    second: T2_Anim_Klaar_Klein_8
+  - first:
+      213: -7225256224707849055
+    second: T2_Anim_Klaar_Klein_9
+  - first:
+      213: 402079719209216153
+    second: T2_Anim_Klaar_Klein_10
+  - first:
+      213: 6784859350292117565
+    second: T2_Anim_Klaar_Klein_11
+  - first:
+      213: -5138919453446232702
+    second: T2_Anim_Klaar_Klein_12
+  - first:
+      213: -6455749065170433561
+    second: T2_Anim_Klaar_Klein_13
+  - first:
+      213: -902680360774701917
+    second: T2_Anim_Klaar_Klein_14
+  - first:
+      213: 7175274183725465301
+    second: T2_Anim_Klaar_Klein_15
+  - first:
+      213: -6742664413302852354
+    second: T2_Anim_Klaar_Klein_16
+  - first:
+      213: -5224589325019590131
+    second: T2_Anim_Klaar_Klein_17
+  - first:
+      213: -8093272885740277678
+    second: T2_Anim_Klaar_Klein_18
+  - first:
+      213: -1825710519699468019
+    second: T2_Anim_Klaar_Klein_19
+  - first:
+      213: 337789840997262974
+    second: T2_Anim_Klaar_Klein_20
+  - first:
+      213: 3577977830332527951
+    second: T2_Anim_Klaar_Klein_21
+  - first:
+      213: 1439331321748119859
+    second: T2_Anim_Klaar_Klein_22
+  - first:
+      213: 6079113992677692166
+    second: T2_Anim_Klaar_Klein_23
+  - first:
+      213: 3512488587003797298
+    second: T2_Anim_Klaar_Klein_24
+  - first:
+      213: 5892875440141809804
+    second: T2_Anim_Klaar_Klein_25
+  - first:
+      213: 3100512445848474955
+    second: T2_Anim_Klaar_Klein_26
+  - first:
+      213: -2784336824739280856
+    second: T2_Anim_Klaar_Klein_27
+  - first:
+      213: -5701652843950774121
+    second: T2_Anim_Klaar_Klein_28
+  - first:
+      213: -3153820910179499572
+    second: T2_Anim_Klaar_Klein_29
+  - first:
+      213: 5505716278585442052
+    second: T2_Anim_Klaar_Klein_30
+  - first:
+      213: -2681204179893926725
+    second: T2_Anim_Klaar_Klein_31
+  - first:
+      213: 3029381577634261468
+    second: T2_Anim_Klaar_Klein_32
+  - first:
+      213: -7074362420833223977
+    second: T2_Anim_Klaar_Klein_33
+  - first:
+      213: -5120266136600165939
+    second: T2_Anim_Klaar_Klein_34
+  - first:
+      213: -7971229742469473914
+    second: T2_Anim_Klaar_Klein_35
+  - first:
+      213: 6369340307078654288
+    second: T2_Anim_Klaar_Klein_36
+  - first:
+      213: -9077703791671884182
+    second: T2_Anim_Klaar_Klein_37
+  - first:
+      213: 5238973956381079502
+    second: T2_Anim_Klaar_Klein_38
+  - first:
+      213: 5814790037663457277
+    second: T2_Anim_Klaar_Klein_39
+  - first:
+      213: 5462008171727512079
+    second: T2_Anim_Klaar_Klein_40
+  - first:
+      213: -5107142574771489378
+    second: T2_Anim_Klaar_Klein_41
+  - first:
+      213: 7749174360874615223
+    second: T2_Anim_Klaar_Klein_42
+  - first:
+      213: 1544893439073071396
+    second: T2_Anim_Klaar_Klein_43
+  - first:
+      213: 4894282625024177760
+    second: T2_Anim_Klaar_Klein_44
+  - first:
+      213: -8121459826244259539
+    second: T2_Anim_Klaar_Klein_45
+  - first:
+      213: -922975382180811206
+    second: T2_Anim_Klaar_Klein_46
+  - first:
+      213: -7440813589476803933
+    second: T2_Anim_Klaar_Klein_47
+  - first:
+      213: -8046094963573503810
+    second: T2_Anim_Klaar_Klein_48
+  - first:
+      213: 7498290753536814064
+    second: T2_Anim_Klaar_Klein_49
+  - first:
+      213: 1620223266225691568
+    second: T2_Anim_Klaar_Klein_50
+  - first:
+      213: 1347928835026846991
+    second: T2_Anim_Klaar_Klein_51
+  - first:
+      213: 8576469591230017503
+    second: T2_Anim_Klaar_Klein_52
+  - first:
+      213: -6853503652259100149
+    second: T2_Anim_Klaar_Klein_53
+  - first:
+      213: 529827562393362447
+    second: T2_Anim_Klaar_Klein_54
+  - first:
+      213: -4281525644026737571
+    second: T2_Anim_Klaar_Klein_55
+  - first:
+      213: -3926762760619958328
+    second: T2_Anim_Klaar_Klein_56
+  - first:
+      213: 3149841175449130668
+    second: T2_Anim_Klaar_Klein_57
+  - first:
+      213: 8510813262427260023
+    second: T2_Anim_Klaar_Klein_58
+  - first:
+      213: 3501257826554204729
+    second: T2_Anim_Klaar_Klein_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ff644f9c02a1a4c9d38f3a91407ac9
+      internalID: 4083528967343321812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3500
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b7eb67188050146907436d8cb70742
+      internalID: 2455466597023607523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3500
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136af59c0244b494a8840bfe67881da2
+      internalID: -69636315999962208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3500
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2754de91b8be04049b93c25a3ac46751
+      internalID: -9096404764706989774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3500
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb8140e14c5daf48b0b51321defe334
+      internalID: -5594225747376794708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3500
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931e48a20eb41841a6b2b02b2f4fc36
+      internalID: -7559492275228078916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_6
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3500
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68b1fd8062c76d4685ca8a0270fb2ef
+      internalID: -5640960730880852086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_7
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3500
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75082c59584294e4ea290750e87b4c27
+      internalID: -4234636923191781561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_8
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3500
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c68d86d01193354686f400a69731393
+      internalID: 5175831392841312949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_9
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3500
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422e89c131ee663489ba2dc5f984042e
+      internalID: -7225256224707849055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1c60cd4a3ad684b8cc82b986aeb698
+      internalID: 402079719209216153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2800
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7219f672bd2905d41a95cefda85cc82c
+      internalID: 6784859350292117565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2800
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cccad5ce7f28f4881f6f7dfe3110a9
+      internalID: -5138919453446232702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2800
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44e080a9059dba4f98f77733ac07953
+      internalID: -6455749065170433561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2800
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b456d0988950047817ad74f550932e
+      internalID: -902680360774701917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_15
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2800
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6750cc53ec07741aa1e9225b847214
+      internalID: 7175274183725465301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_16
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2800
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22cc633c2624749bfc2faed13d6d9a
+      internalID: -6742664413302852354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_17
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2800
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dd1c2d5037b2c408314a6d09c1eb68
+      internalID: -5224589325019590131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_18
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2800
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5f8bfcc8f5cf94b88f76732cde772c
+      internalID: -8093272885740277678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_19
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2800
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6aba5d90310414081354e8de4cffdd
+      internalID: -1825710519699468019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62668a5866c94f34a858012a6948481b
+      internalID: 337789840997262974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2100
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af889bfc2a2e4be4d8fe85bc033cf0ab
+      internalID: 3577977830332527951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2100
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19605991491f51244a616dbf28ab703f
+      internalID: 1439331321748119859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2100
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363ad1afde106ae4c9898fbac0b600ee
+      internalID: 6079113992677692166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2100
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6d252d3b900dc4c954a0d824306f9f
+      internalID: 3512488587003797298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_25
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2100
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e171aacab213745a40a1b8b9b38f66
+      internalID: 5892875440141809804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_26
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2100
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73840013ca8edf7448ddb8c2bc4bd408
+      internalID: 3100512445848474955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_27
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2100
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974320012854f5740a8bc42ccae1d671
+      internalID: -2784336824739280856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_28
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2100
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b9b0f82258a8147b10ced53273bfd1
+      internalID: -5701652843950774121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_29
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2100
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144a70918f50c084d9e80f3056247682
+      internalID: -3153820910179499572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5c2c467680f8f4e8661e63ded356b2
+      internalID: 5505716278585442052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1400
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8336bbca89bbd744972830a1fadea0f
+      internalID: -2681204179893926725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1400
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d679cc877a0f0b4db692ba9d18d8668
+      internalID: 3029381577634261468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1400
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a520058a7cb9e84293ac4e7c00bc7a1
+      internalID: -7074362420833223977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_34
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1400
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4af9e8d94b76e46966f67dcc613b78
+      internalID: -5120266136600165939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_35
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1400
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5d957f96634a746bb9ba62d07241ae
+      internalID: -7971229742469473914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_36
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1400
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b621b45d293a942923b27db74934e1
+      internalID: 6369340307078654288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_37
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1400
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9363e133eb2e1d7469550b3d2876c142
+      internalID: -9077703791671884182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_38
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1400
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f00e0b6ccb8794a88f2fbbc76567f6
+      internalID: 5238973956381079502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_39
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1400
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad228e3906b526a49b396b9c929b0c99
+      internalID: 5814790037663457277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3f42d4e5288d84594c0f0f38218ffa
+      internalID: 5462008171727512079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df70380ffbbf1174e81f898e0443d61d
+      internalID: -5107142574771489378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 700
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41df2c3be0e5f844a696cbcfcfd8dc7
+      internalID: 7749174360874615223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 700
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828e5ab5a29b7d346b18f33acf960c56
+      internalID: 1544893439073071396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_44
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 700
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d983f24e819070e488167026524ccd2c
+      internalID: 4894282625024177760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_45
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 700
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed58b8e4f4585944089816b56427fa7f
+      internalID: -8121459826244259539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_46
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 700
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fbc0f2f2d55e14995e03ac6ca71537
+      internalID: -922975382180811206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_47
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 700
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e147d416717849b946a585eedb6a0
+      internalID: -7440813589476803933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_48
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 700
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e05a4a6461ca34c8abc1a81cfbf786
+      internalID: -8046094963573503810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_49
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 700
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dff0171f7b1f1d4aa01d1cc164ea487
+      internalID: 7498290753536814064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f246453359a350049bcc2c41bb64e9e9
+      internalID: 1620223266225691568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc040a36d27c41d4fabc002595f73479
+      internalID: 1347928835026846991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_52
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2846948842c84e34d8820a9794e7249e
+      internalID: 8576469591230017503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b8e57792593c47a038591347370e4
+      internalID: -6853503652259100149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_54
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd8c2c5c3dc24845ba264866fed7648
+      internalID: 529827562393362447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_55
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e9f1a618123414dbc18549f40d14aa
+      internalID: -4281525644026737571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_56
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b647b2dd9feb64ba3ccf9fe9a1688d
+      internalID: -3926762760619958328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_57
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ecc496c40e7a74293ef885b608429f
+      internalID: 3149841175449130668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_58
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983c0393775a5d24c9971b72236f7b21
+      internalID: 8510813262427260023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Anim_Klaar_Klein_59
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a277423e1fbe15d4b857d8123ce075cd
+      internalID: 3501257826554204729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
